@@ -108,7 +108,7 @@ ul.skills {
   display: inline-block;
   background: #ff9904;
   color: white;
-  padding: 5px 10px;
+ 
   margin: 2px;
 }
 
@@ -204,3 +204,14 @@ a.social:hover {
 
 }
 
+h3 {
+  color: blue;
+  letter-spacing: 2px;
+}
+
+.card-title {
+  text-align: center;
+  border: solid black 3px;
+  border-radius: 5px;
+  margin-top: 50px;
+}
